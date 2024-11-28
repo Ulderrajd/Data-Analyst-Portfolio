@@ -1,11 +1,11 @@
 # Data-Analyst-Portfolio
 
 ## Table of Contents
-  1. Introduction
-  2. Projects
-     a. SQL
-     b. Power BI
-     c. Python
+  1. [Introduction](https://github.com/Ulderrajd/Data-Analyst-Portfolio/blob/main/README.md#Introduction)
+  2. Projects <br />
+     a. SQL <br />
+     b. Power BI <br />
+     c. Python <br />
   3. Education
   4. Contacts
 ## 1. Introduction
