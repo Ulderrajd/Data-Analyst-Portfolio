@@ -1,4 +1,4 @@
-# Data-Analyst-Portfolio
+## Data-Analyst-Portfolio
 
 # Table of Contents
   1. Introduction
