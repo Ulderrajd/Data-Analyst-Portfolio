@@ -12,7 +12,6 @@ My CV in [pdf](https://github.com/Ulderrajd/Data-Analyst-Portfolio/blob/b0385de3
 ## 2. Projects
 This section includes several data analytics projects.
 
-
 ### China houses prices
 
 **File:** [China houses price](https://github.com/Ulderrajd/Data-Analyst-portfolio/blob/41e7d7b1fc2b3e533fd4737fb21da86bbec0fb00/Power%20BI/China%20Houses%20Prices.pbix) <br />
@@ -24,7 +23,6 @@ This section includes several data analytics projects.
 **Skills:** Data analysis, data visualization <br />
 
 **Results:** The analysis reveals that house price depends on the building type, and whether it nears the subway or not. And also houses in districts which near the Beijing, namely distric 1, 7, 8, 10, tend to have higher pricePerSM, except for district 2. <br />
-
 
 ### Telco Customer Churn
 
