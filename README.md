@@ -36,4 +36,13 @@ This section includes several data analytics projects.
 
 **Results:** From the EDA, there are some factors related to churned customers. For instance, churned customers tend to be older, their monthly payments are much larger but their Customer Lifetime Value is smaller compared to staying customers.Also, churned customers mostly use month-to-month contract. Furthermore, there is an offer program in which the number of churned customers is larger than staying ones. Regarding the machine learing, the classification model which predicts the churned customer works quite well, with 97.94% accuracy score, whereas the regression model cannot be used in predicting as its R-score is low. <br/> 
 
+## 3.Education
+
+Foreign Trade University II, HCMC. Bachelor's degree of International Economics, 2021-2025. <br/>
+Tel: 0374982099
+
+## 4. Contacts
+
+Email: nguyenmquan1602@gmail.com <br/>
+
 
