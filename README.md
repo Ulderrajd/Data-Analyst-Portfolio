@@ -24,5 +24,8 @@ This section includes several data analytics projects.
 
 **Results:** The analysis reveals that house price depends on the building type, and whether it nears the subway or not. And also houses in districts which near the Beijing, namely distric 1, 7, 8, 10, tend to have higher pricePerSM, except for district 2. <br />
 
+### Telco Customer Churn
+
+**File:** [TelcoCustomer](
 
 
