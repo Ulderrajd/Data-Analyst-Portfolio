@@ -16,7 +16,7 @@ This section includes several data analytics projects.
 
 **File:** [China houses price](https://github.com/Ulderrajd/Data-Analyst-portfolio/blob/41e7d7b1fc2b3e533fd4737fb21da86bbec0fb00/Power%20BI/China%20Houses%20Prices.pbix) <br />
 
-**Description:** The main goal of the project is to determine house prices based on some criterias such as numbers of rooms, building type, near subway or not,... The analytic process involves perforimg exploratory data analysis (EDA). The analysis also considers the house price by which district it locates. <br />
+**Description:** This dataset records information of 299,536 houses sold from June 2002 to January 2018 in Beijing. This project aims to give a view of the house price situation in Beijing, specifically in each district. <br />
 
 **Tools:** Power BI <br />
 
